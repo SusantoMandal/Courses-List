@@ -20,7 +20,6 @@ function writeData(data) {
 
 function validPost(data) {
   const schema = {
-    courseID: Joi.string().regex(/^[0-9]+$/).required(),
     courseName: Joi.string().min(4).required(),
     subject: Joi.string().min(4).required(),
   };

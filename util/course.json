@@ -1,23 +1,23 @@
 [
     {
+        "courseName": "CSE",
+        "subject": "DWDM",
         "courseID": "1",
-        "courseName": "10th class",
-        "subject": "javascript",
-        "createdAt": "14-7-2021  18:12:23",
-        "modifiedAt": "15-7-2021  11:42:5"
+        "createdAt": "22-7-2021  17:27:0",
+        "modifiedAt": "22-7-2021  17:27:0"
     },
     {
+        "courseName": "Bphrma",
+        "subject": "medical",
         "courseID": "2",
-        "courseName": "btech",
-        "subject": "javascript",
-        "createdAt": "14-7-2021  18:27:15",
-        "modifiedAt": "14-7-2021  18:30:30"
+        "createdAt": "22-7-2021  17:27:37",
+        "modifiedAt": "22-7-2021  17:27:37"
     },
     {
+        "courseName": "12th",
+        "subject": "science",
         "courseID": "3",
-        "courseName": "mtech",
-        "subject": "nodeJS",
-        "createdAt": "14-7-2021  18:33:0",
-        "modifiedAt": "15-7-2021  18:1:20"
+        "createdAt": "22-7-2021  17:28:33",
+        "modifiedAt": "22-7-2021  17:28:33"
     }
 ]
